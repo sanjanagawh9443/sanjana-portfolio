@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Diwali Sales Data Analysis",
+    "desc": "Analysis and visualizations on sales behavior during festive season.",
+    "category": "Data Analysis",
+    "links": {
+      "view": "https://github.com/sanjanagawh9443/Proj_2Data_Analysis_with_Diwali_Sales",
+      "code": "https://github.com/sanjanagawh9443/Proj_2Data_Analysis_with_Diwali_Sales.git"
+    }
+  },
+  {
+    "name": "Hotel Booking Data Analysis",
+    "desc": "EDA using Python to uncover patterns in hotel booking trends.",
+    "category": "Data Analysis",
+    "links": {
+      "view": "https://github.com/sanjanagawh9443/Proj_1Data_Analysis_with_Hotel_Booking",
+      "code": "https://github.com/sanjanagawh9443/Proj_1Data_Analysis_with_Hotel_Booking.git"
+    }
+  },
+  {
+    "name": "Kidney Stone Detection",
+    "desc": "AI model for identifying kidney stones using patient data.",
+    "category": "AI-ML Model",
+    "links": {
+      "view": "https://github.com/sanjanagawh9443/Kidney_Stone_Detection",
+      "code": "https://github.com/sanjanagawh9443/Kidney_Stone_Detection.git"
+    }
+  },
+  {
+    "name": "Food Menu Chatbot",
+    "desc": "NLP-powered chatbot using Python and IBM Cloud as well as AI-ML Libraries.",
+    "category": "Chatbot",
+    "links": {
+      "view": "https://github.com/sanjanagawh9443/Food-Menu-chatbot",
+      "code": "https://github.com/sanjanagawh9443/Food-Menu-chatbot-.git"
+    }
+  }
+    
+]
+
+
+
+
