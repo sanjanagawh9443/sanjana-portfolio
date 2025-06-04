@@ -1,0 +1,43 @@
+[ 
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "assets/images/mysql.png"
+    },
+    {
+        "name": "Excel",
+        "icon": "assets/images/excel.png"
+    },
+     {
+        "name": "Power BI",
+        "icon": "assets/images/powerbi.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "assets/images/tableau.png"
+    },
+    {
+        "name": "NumPy",
+        "icon": "assets/images/numpy.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+        
+]
+
+
+
+
+
+
+
+
