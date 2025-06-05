@@ -40,9 +40,6 @@ Feel free to connect with me through the handles below:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana445)
 
 
- 💡 **Portfolio design Inspired & adapted from [Jigar Sable](https://github.com/jigar-sable/Portfolio-Website)**  
- 
-   **Sincere thanks for sharing this wonderful template with the community.**
 
 
 
